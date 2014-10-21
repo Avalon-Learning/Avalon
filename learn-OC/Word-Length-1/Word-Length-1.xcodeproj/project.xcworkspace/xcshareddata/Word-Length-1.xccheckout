@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E0695B51-A601-4D3C-AD6B-935FA0453785</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Word-Length-1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F388F3661F331FBA58947FCD151A030299270E83</key>
+		<string>https://github.com/saberyang/Avalon.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>learn-OC/Word-Length-1/Word-Length-1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F388F3661F331FBA58947FCD151A030299270E83</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/saberyang/Avalon.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F388F3661F331FBA58947FCD151A030299270E83</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F388F3661F331FBA58947FCD151A030299270E83</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Avalon</string>
+		</dict>
+	</array>
+</dict>
+</plist>
